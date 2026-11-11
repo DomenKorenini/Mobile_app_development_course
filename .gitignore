@@ -4,6 +4,7 @@
 # except these
 !/.gitignore
 !/Calculator/
+!/README.md
 
 # build junk inside the kept folder
 build/
